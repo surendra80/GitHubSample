@@ -1,0 +1,6 @@
+C:\Demos\GitHubSample\bin\Debug\GitHubSample.exe.config
+C:\Demos\GitHubSample\bin\Debug\GitHubSample.exe
+C:\Demos\GitHubSample\bin\Debug\GitHubSample.pdb
+C:\Demos\GitHubSample\obj\Debug\GitHubSample.csprojResolveAssemblyReference.cache
+C:\Demos\GitHubSample\obj\Debug\GitHubSample.exe
+C:\Demos\GitHubSample\obj\Debug\GitHubSample.pdb
